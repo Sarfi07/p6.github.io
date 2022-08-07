@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&family=Roboto:ital,wght@1,700&display=swap');
+body {
+
+    background-color: gray;
+    font-family: 'Roboto', sans-serif;
+}
+header h1{
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+img {
+    height: 200px;
+    width: 50vw;
+    border-radius: 2%;
+    
+}
+div.para
+{
+    padding: 500px;
+    margin-top: 500px;
+}
